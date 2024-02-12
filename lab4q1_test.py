@@ -52,7 +52,7 @@ def test_matching4(monkeypatch, capsys):
 
 def test_case2(monkeypatch, capsys):
   with open(f"lab4q1.py") as tf:
-    head = [next(tf) for _ in range(9)]
+    head = [next(tf) for _ in range(13)]
     s = tf.read()
     assert(s.find("while") != -1 )
 
