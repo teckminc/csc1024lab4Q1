@@ -6,6 +6,10 @@ following code:
  range of 1 to 200.
 • Add an iterative function using the while loop to ask the user for a 
 decision to continue playing the game.
+
+Function to use: random.randint(), int(), input(), print(), str(), str.tolower()
+Operators: !=, <, +
+Structure: while, if - else
 '''
 
 def main():
