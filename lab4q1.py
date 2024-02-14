@@ -7,7 +7,7 @@ following code:
 • Add an iterative function using the while loop to ask the user for a 
 decision to continue playing the game.
 
-Function to use: random.randint(), int(), input(), print(), str(), str.tolower()
+Function to use: random.randint(), int(), input(), print(), str(), str.lower()
 Operators: !=, <, +
 Structure: while, if - else
 '''
